@@ -46,7 +46,7 @@ int main(){
         cout<<"Found: "<<*itf<<endl;
     }
     
-  // Sorting happens simultaneously with each entry added in Set.
+    // Sorting happens simultaneously with each entry added in Set.
     set<Student> st;
     
     st.insert(Student(10, "Mike"));
